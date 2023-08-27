@@ -1,3 +1,4 @@
 Heart Disease
 -heartdisease merupakan penyakit yang sudah sangat 
 familiar di lapisan masyarakat.
+-merancang sebuah model yang dapat memprediksi penyakit jantung dan tida
